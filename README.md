@@ -44,9 +44,6 @@ Papirus E-Commerce Platform is a robust and user-friendly online shopping soluti
 
 Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
